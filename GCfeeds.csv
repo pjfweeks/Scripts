@@ -1,3 +1,4 @@
+DEPT,URL,
 Youth,"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=youth&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Youth",
 Western Economic Diversification Canada,"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=westerneconomicdiversification&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Western%20Economic%20Diversification%20Canada",
 Veterans Affairs Canada,"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=veteransaffairscanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Veterans%20Affairs%20Canada",
